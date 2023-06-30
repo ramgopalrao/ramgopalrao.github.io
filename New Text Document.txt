@@ -1,0 +1,72 @@
+<%@page import="java.sql.*">
+<%
+String user="";
+String pass="";
+String concept="";
+String location="";
+String status="";
+String logtime="";
+
+Connection con=null;
+Statement st=null;
+
+%
+
+
+<%
+
+try{
+Class.forName("sun.jdbc.odbc.JdbcOdbcDriver");
+}
+catch(ClassNotFoundException ce)
+{}
+
+try{
+con=driverManager.getConnection("jdbc:odbc:nontrading");
+}
+
+catch(SQLException se)
+{}
+%>
+
+<%
+user=request.getParameter("user");
+pass=request.getParameter("pass");
+
+
+
+ResultSet rs=st.executeQuery("select * from user where username='"+user+"' and password='"+pass+"'");
+
+if(rs.next())
+{
+
+do
+{
+concept=rs.getString("concept");
+location=rs.getString("location");
+status=rs.getString("status");
+logtime=rs.getString("logtime");
+}
+
+session=request.getSession();
+session.setAttribute("conceptsess", concept);
+session.setAttribute("locationsess", location);
+session.setAttribute("statussess", status);
+session.setAttribute("logtimesess", logtime);
+
+
+st1.executeUpdate("update user set logtime='"+new java.util.Date()+"'");
+response.sendRedirect("nontrading/nontrading.jsp");
+
+}
+else
+{
+response.sendRedirect("nontrading/login.htm");
+}
+
+
+
+
+
+
+%>

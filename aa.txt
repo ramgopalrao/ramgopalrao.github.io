@@ -1,0 +1,61 @@
+Media (communication)
+From Wikipedia, the free encyclopedia
+Media (singular medium) are the storage and transmission channels or tools used to store and deliver information or data. It is often referred to as synonymous with mass media or news media, but may refer to a single medium used to communicate any data for any purpose.[1][2][3]
+
+Contents  [hide] 
+1 Evolution
+1.1 Electronic media
+1.2 Social impact
+2 See also
+3 References
+4 Further reading
+Evolution [edit]
+
+The word medium comes from the Latin word medius (middle).
+The beginning of human communication through designed channels, i.e. not vocalization or gestures, dates back to ancient cave paintings, drawn maps, and writing.[4]
+
+The Persian Empire (centred around present-day Iran and Afghanistan) played an important role in the field of communication. It devised what might be described as the first real mail or postal system, which is said to have been developed by the Persian emperor Cyrus the Great (c. 550 BC) after his conquest of Media. The role of the system as an intelligence gathering apparatus is well documented, and the service was (later) called angariae, a term that in time turned to indicate a tax system. The Old Testament (Esther, VIII) makes mention of this system: Ahasuerus, king of Medes, used couriers for communicating his decisions.
+
+The word communication is derived from the Latin root communicare. This was due to the Roman Empire also devising what might be described as a mail or postal system, in order to centralize control of the empire from Rome. This allowed for personal letters and for Rome to gather knowledge about events in its many widespread provinces. More advanced postal systems later appeared in the Islamic Caliphate and the Mongol Empire during the Middle Ages.
+
+The term "media" in its modern application relating to communication channels is traced back to its first use as such by Canadian communications theorist Marshall McLuhan, who stated in Counterblast (1954): "The media are not toys; they should not be in the hands of Mother Goose and Peter Pan executives. They can be entrusted only to new artists, because they are art forms." By the mid-1960s, the term had spread to general use in North America and the United Kingdom. ("Mass media", in contrast, was, according to H.L. Mencken, used as early as 1923 in the United States.)[5]
+The adoption of a dominant communication medium is important enough that historians have folded civilization into "ages" according to the medium most widely used. A book titled "Five Epochs of Civilization" by William McGaughey (Thistlerose, 2000) divides history into the following stages: Ideographic writing produced the first civilization; alphabetic writing, the second; printing, the third; electronic recording and broadcasting, the fourth; and computer communication, the fifth. The media affect what people think about themselves and how they perceive people as well. What we think about self image and what others should look like comes from the media.
+
+While it could be argued that these "Epochs" are just a historian's construction, digital and computer communication shows concrete evidence of changing the way humans organize. The latest trend in communication, termed smartmobbing, involves ad-hoc organization through mobile devices, allowing for effective many-to-many communication and social networking.
+Electronic media [edit]
+
+Main article: Electronic media
+
+In the last century, a revolution in telecommunications has greatly altered communication by providing new media for long distance communication. The first transatlantic two-way radio broadcast occurred in 1906 and led to common communication via analogue and digital media:
+Analog telecommunications include traditional telephony, radio, and TV broadcasts.
+Digital telecommunications allow for computer-mediated communication, telegraphy, and computer networks.
+Modern communication media now allow for intense long-distance exchanges between larger numbers of people (many-to-many communication via e-mail, Internet forums, and teleportation). On the other hand, many traditional broadcast media and mass media favor one-to-many communication (television, cinema, radio, newspaper, magazines, and also facebook).
+
+Electronic media is enjoying broader use every day with an increase in electronic devices being made. The meaning of electronic media, as it is known in various spheres, has changed with the passage of time. The term media has achieved a broader meaning nowadays as compared to that given it a decade ago. Earlier, there was multimedia, once only a piece of software (application software) used to play audio (sound) and video (visual object with or without sound). Following this, it was CD (Compact Disc) and DVD (Digital Versatile Disc), then camera of 3G (Third Generation) applications in the field. In modern terms, the media includes all the software which are used in PC (Computer) or Laptop or Mobile Phone installed for normal or better performance of the system; today, however, hard discs (used to increase the installation capacity of data) of computer is an example of electronic media. This type of hard disc is becoming increasingly smaller in size. The latest inclusion in the field is magnetic media (magnetic stripe) whose application is common, in the fastest growing Information Technology field. Modern day IT media is commonly used in the banking sector and by the Income Tax Department for the purpose of providing the easiest and fastest possible services to the consumers. In this magnetic strip all the data relating to a particular consumer is stored. Credit card, Debit card , ATM card, High end travel card are comprised within the term Media as it is known today. The main feature of these types of media is these are prepared unrecorded (blank form) and data is normally stored at a later stage as per the requirement of its user or consumer .
+
+Television, is an extensively used medium in the modern lifestyle of us all. Television is considered to be a distinguished medium among all other mediums we have today, and also be the most attractive medium that can involve anykinds of audience of different tastes and ages. Television has however managed, in involving a significant number of viewers and a wider range of influence over the largr number of sponsors, business houses and entrepreneurs in such competitive media business today. It dominates the media world through its unique performances that it possesse by its own virtue of combined ‘audio-visual’ presenting ability at a time, which belongs to none of the other media.
+
+
+Social impact [edit]
+Media technology has made communicating increasingly easier as time has passed throughout history. Today, children are encouraged to use media tools in school and are expected to have a general understanding of the various technologies available. The internet is arguably one of the most effective tools in media for communication. Tools such as e-mail, Skype, Facebook etc., have brought people closer together and created new online communities. However, some may argue that certain types of media can hinder face-to-face communication and therefore can result in complications like identity fraud.
+In a large consumer-driven society, electronic media (such as television) and print media (such as newspapers) are important for distributing advertisement media. More technologically advanced societies have access to goods and services through newer media than less technologically advanced societies.
+
+Media, through media and communications psychology, has helped to connect diverse people from far and near geographical location. It has also helped in the aspect of on- line/ internet business and other activities that has an on-line version. All media intended to affect human behavior is initiatied through communication and the intended behavior is couched in psychology. Therefore, understanding media and communications psychology is fundamental in understanding the social and individual effects of media. The expanding field of media and communications psychology combines these established disciplines in a new way.
+Timing change based on innovation and efficiency may not have a direct correlation with technology. The information revolution is based on modern advancements. During the 19th century, the information "boom" rapidly advanced because of postal systems, increase in newspaper accessibility, as well as schools "modernizing". These advancements were made due to the increase of people becoming literate and educated.[citation needed] The methodology of communication although has changed and dispersed in numerous directions based on the source of its sociocultural impact.
+
+
+
+FAX (Facsimile Telegraphy) – Facsimile telegraphy deals with the transmission of typewritten or handwritten message , drawings , graphics , pictures or any matter which cannot be sent through telegraphs , telephones or teleprinters.This machine operates by converting the variances of light reflected from the image of the original matter into electrical impulses which can be reconverted onto the image from on reception . Connections can be made over very long distances using the public telephone networks or radio links.
+
+RELATED ARTICLES
+The Advantages of Fax2Mail (Fax to Mail) Services
+Eco-friendly Office Solutions with Fax by mail
+The Importance of Centralising Fax, Email, SMS and Voicemail
+Email Fax Free
+Fax is perhaps the speediest system presently available and transmitting and receiving a standard letter size document takes approximately four minutes, irrespective of the amount of matter on it. In this system there is no scope for copying errors and so high order skills required at high skills. Even typed matter can be transmitted more effectively through fax than through the teleprinter since the former completely does away with the element of checking for errors inadvertently incorporated during transmittal of the matter.
+
+ELECTRONIC MAIL (E-Mail) – This , too is a progeny of computer technology. It facilities the transmittal of messages through the use of computer storage and computer inter-links , thus eliminating postal delays. The message is simply keyed into the system. The signals, converted into digital pulses are stored in the computer's memory for retrieval. The message can be retrieved at the recipient's convenience. Thus apart from being time saving , electronic mail is a more convenient and unobtrusive method of sending a message as the sender can be sure of not disturbing the recipient. In close inhouse communication, links are established either by the CPU of computer network internet workstations. In distant communication between offices at different locations , an extensive network of microwave or satellite technology is used for the transmission of electronic mail.
+
+Ads by Google
+
+Usually group communication takes place in person , in the same room but the new technology provides a facility for discussion with the group of persons on the internet . You can conduct a meeting , hold a group discussion or brief people scattered across the country or around the world. You can consult a number of experts through computers using decision support systems for their views before making a decision or for finalizing a plan of action. In teleconferencing , the attention is focused on the idea or concept that is being communicated. This is an advantage of the method but sometimes this overemphasis on the message with a corresponding neglect of the person communicating it, may not be fully in tune with the corporate culture , which needs dynamic medium of communication.
